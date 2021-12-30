@@ -1,2 +1,3 @@
-# desafio-DIO-primeiro-repositorio-Github
-Desafio DIO primeiro repositório no Github
+# Desafio da DIO - Criando um repositório na Github
+
+Desafio DIO- primeiro repositório criado no Github
